@@ -1,4 +1,5 @@
 #root {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     max-width: 100;
     max-height: 100;
     margin: 0 auto;
@@ -8,7 +9,10 @@
     color: white;
   }
 
-  #port {
-    width: 18rem;
-    display:flex;
-  }
+img {
+  max-block-size: 150px;
+}
+
+.card {
+ flex-wrap: wrap;
+}
