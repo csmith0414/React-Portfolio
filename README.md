@@ -32,7 +32,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ![React Portfolio](./src/assets/images/screengrab.png)
 
-- Link to Text Editor: [React Portfolio](https://lively-taffy-91d087.netlify.app/)
+- Link to React Portfolio: [React Portfolio](https://voluble-faloodeh-4eef51.netlify.app/)
 
 
 ## Usage
