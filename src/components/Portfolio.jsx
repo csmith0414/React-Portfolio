@@ -8,7 +8,7 @@ import workDayScheduler from '../assets/images/work-day-scheduler.png'
 const Portfolio = () => {
   return (
 <div className="row port">
-  <div className="col-sm-6 mb-3 mb-sm-0">
+  <div className="col-sm-6 block">
     <div className="card">
     <img src={eventForecaster} className="card-img-top"/>
       <div className="card-body">
@@ -19,18 +19,18 @@ const Portfolio = () => {
       </div>
     </div>
   </div>
-  <div className="col-sm-6">
+  <div className="col-sm-6 block2">
     <div className="card">
     <img src={workDayScheduler} className="card-img-top"/>
       <div className="card-body">
-        <a href="https://csmith0414.github.io/work-day-scheduler/" className="btn btn-primary">Work Day Scheduler</a>
+        <a href="https://csmith0414.github.io/work-day-scheduler/" className="btn btn-primary link-light">Work Day Scheduler</a>
         </div>
         <div>
         <a href="https://github.com/csmith0414/work-day-scheduler" className="btn btn-primary">GitHub Repo</a>
       </div>
     </div>
   </div>
-  <div className="col-sm-6">
+  <div className="col-sm-6 block3">
     <div className="card">
     <img src={weatherDashboard} className="card-img-top"/>
       <div className="card-body">
@@ -41,7 +41,7 @@ const Portfolio = () => {
       </div>
     </div>
   </div>
-  <div className="col-sm-6">
+  <div className="col-sm-6 block4">
     <div className="card">
     <img src={horiseonRefactor} className="card-img-top"/>
       <div className="card-body">
@@ -52,7 +52,7 @@ const Portfolio = () => {
       </div>
     </div>
   </div>
-  <div className="col-sm-6">
+  <div className="col-sm-6 block5">
     <div className="card">
     <img src={passwordGenerator} className="card-img-top"/>
       <div className="card-body">
@@ -63,7 +63,7 @@ const Portfolio = () => {
       </div>
     </div>
   </div>
-  <div className="col-sm-6">
+  <div className="col-sm-6 block6">
     <div className="card">
     <img src={textEditor} className="card-img-top"/>
       <div className="card-body">
