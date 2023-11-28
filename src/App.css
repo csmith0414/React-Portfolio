@@ -266,3 +266,23 @@ img {
 .form-style-4 input[type=button]:hover{
 background: #394D61;
 }
+
+.icons {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+
+}
+
+.icon {
+  height: 50px;
+  width: 65px;
+  margin-bottom: -50px;
+}
+
+.resume {
+  height: 500px;
+  width: 300px;
+}
