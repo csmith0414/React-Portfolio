@@ -1,3 +1,6 @@
+// Setting up the footer section
+// Importing icons for my social media links
+
 import gitHub from '../assets/images/github.png'
 import linkedIn from '../assets/images/LinkedIn.png'
 import instagram from '../assets/images/IG.png'
@@ -14,4 +17,5 @@ const Footer = () => {
     );
 };
 
+// Exporting footer
 export default Footer;

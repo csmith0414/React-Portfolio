@@ -1,3 +1,5 @@
+// Setting up component for my home page of my portfolio
+// Importing  image for home page
 import homeScreen from '../assets/images/home.png'
 
 const Home = () => {
@@ -14,4 +16,5 @@ const Home = () => {
     )
 };
 
+// Exporting home
 export default Home;

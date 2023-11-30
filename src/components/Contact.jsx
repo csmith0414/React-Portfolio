@@ -1,3 +1,5 @@
+//Setting up component for my contact page
+
 const Contact = () => {
     return (
         <div>
@@ -22,4 +24,5 @@ const Contact = () => {
     );
 };
 
+// Exporting contact
 export default Contact;

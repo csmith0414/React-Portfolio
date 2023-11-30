@@ -1,3 +1,5 @@
+// Setting up the component for my resume page of my portfolio
+// Importing a download image for my resume
 import download from '../assets/images/download.png'
 
 const Resume = () => {
@@ -9,4 +11,5 @@ const Resume = () => {
     );
   };
   
+  // Exporting resume
   export default Resume;

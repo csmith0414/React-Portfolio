@@ -1,6 +1,7 @@
+/* importing the google font that was used for the portfolio page */
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Libre+Baskerville&display=swap');
 
-
+/* setting up the root styling of my portfolio and the background used on each page */
 #root {
   font-family: 'Acme', sans-serif;
   max-width: 100%;
@@ -27,7 +28,7 @@
     background-position: 0% 50%;
   }
 }
-
+/* setting up the nav bar styling */
 .body {
   margin-top:0;
   padding:0;
@@ -96,12 +97,13 @@ ul li a:hover:before{
   transform:scaleX(1);
 }
 
+/* styling setup for the home page */
 .home {
   font-size: x-large;
   max-block-size: 100%;
   border-radius: 50px;
 }
-
+/* styling for the blocks on the portfolio page */
 .block {
   float: left;
   width: 500px;
@@ -174,24 +176,24 @@ ul li a:hover:before{
   border-style: ridge;
   border-width: 10px;
 }
-
+/* setting up styling of the img tags throughout my portfolio */
 img {
   max-block-size: 150px;
   border-radius: 50px;
   width: 300px;
   height: 200px;
 }
-
+/* adjusting font size on my about me page */
 .about {
   font-size: xx-large;
 }
-
+/* adjusting image placed on about me page */
 .me {
   max-block-size: 200%;
   border-radius: 10%;
   margin-top: 50px;
 }
-
+/* contact me page form styling */
 .form-style-4{
   margin-top: 100px;
 	width: 500px;
@@ -266,7 +268,7 @@ img {
 .form-style-4 input[type=button]:hover{
 background: #394D61;
 }
-
+/* setting up styling for the icons within my footer for social media links */
 .icons {
   position: absolute;
   left: 0;
@@ -281,7 +283,7 @@ background: #394D61;
   width: 65px;
   margin-bottom: -50px;
 }
-
+/* styling for the resume icon on my resume page */
 .resume {
   height: 500px;
   width: 300px;

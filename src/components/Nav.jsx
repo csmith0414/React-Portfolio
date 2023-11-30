@@ -1,3 +1,5 @@
+// Setting up the navigation component for my portfolio
+// Setting up the connection between the different tabs on my portfolio
 
 const Navigation = () => {
     return (
@@ -13,4 +15,5 @@ const Navigation = () => {
     );
 };
 
+// Exporting navigation
 export default Navigation;

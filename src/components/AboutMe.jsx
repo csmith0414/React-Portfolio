@@ -1,3 +1,5 @@
+// Component to setup the "About Me" page of my portfolio
+// Importing an image of myself to be placed on my "About Me" page
 import me from '../assets/images/me.png'
 
 const AboutMe = () => {
@@ -18,4 +20,5 @@ const AboutMe = () => {
   );
 };
 
+// Exporting Aboutme
 export default AboutMe;

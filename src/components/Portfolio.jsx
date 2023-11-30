@@ -1,3 +1,5 @@
+// Setting up my portfolio components page
+// Importing images for the different portfolio boxes
 import eventForecaster from '../assets/images/event-forecaster.png'
 import horiseonRefactor from '../assets/images/horiseon-refactor.png'
 import passwordGenerator from '../assets/images/password-generator.png'
@@ -78,4 +80,5 @@ const Portfolio = () => {
   );
 };
 
+// Exporting portfolio
 export default Portfolio;
